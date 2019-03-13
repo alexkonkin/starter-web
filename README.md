@@ -5,5 +5,6 @@ this is a test project for git training
 demo
 
 ## Purpose
+just for training
 
 ## How to contribute
